@@ -1,7 +1,3 @@
-/*darsda ko'riladigan Masalalar
-yechmasalaring hamm bo'ladi degandilar 
-birinchi ustoz.!!!*/
-
 // Begin 1
 // let a = 6;
 // let b = 4;
